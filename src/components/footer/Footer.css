@@ -1,0 +1,10 @@
+footer {
+grid-column:1/4;
+grid-row:3;
+overflow:hidden;
+background:rgba(190, 80, 30, 0.46);
+color:white;
+padding-top:10px;
+text-align:center;
+font-size:16px
+}

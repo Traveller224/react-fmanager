@@ -1,0 +1,39 @@
+.msgBox {
+position:absolute;
+width:100%;
+bottom:0;
+display:flex;
+justify-content:center
+}
+.success {
+border:1px solid #0c0;
+color:#4F8A10;
+background:#F2FFF2;
+margin-top:3px;
+font-size:14px;
+padding:5px;
+text-align:center;
+margin-bottom:5px;
+border-radius:5px
+}
+.error {
+margin-top:3px;
+font-size:14px;
+border:1px solid #FF4F4F;
+color:#D6000E;
+background:#FFF2F2;
+padding:5px;
+text-align:center;
+margin-bottom:5px;
+border-radius:5px
+}
+.warning {
+margin-top:3px;
+font-size:14px;
+color:#9F6000;
+background:#FFF9D5;
+border:1px solid #FFD324;
+padding:5px;
+text-align:center;
+border-radius:5px
+}
